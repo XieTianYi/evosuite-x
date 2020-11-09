@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 09 21:28:32 CST 2020
+evosuite-master-1.0.6.jar>central=
+evosuite-master-1.0.6.pom>central=
+evosuite-master-1.0.6.pom>=
